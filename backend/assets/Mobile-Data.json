@@ -1,0 +1,98 @@
+[
+  {
+    "brand": "Apple",
+    "type": "Mobile",
+    "model": "iPhone 13 Pro",
+    "price": "1099.00",
+    "description": "The latest iPhone model with advanced camera capabilities and powerful performance.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Mobile/1.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Mobile",
+    "model": "Galaxy Z Fold 3",
+    "price": "1799.00",
+    "description": "A foldable smartphone with a large display and multitasking features.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Mobile/2.jpg"
+  },
+  {
+    "brand": "Google",
+    "type": "Mobile",
+    "model": "Pixel 6",
+    "price": "799.99",
+    "description": "A Google Pixel phone with exceptional camera quality and the latest Android features.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Mobile/3.jpg"
+  },
+  {
+    "brand": "OnePlus",
+    "type": "Mobile",
+    "model": "9 Pro",
+    "price": "899.00",
+    "description": "A flagship OnePlus phone known for its smooth performance and fast charging.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Mobile/4.jpg"
+  },
+  {
+    "brand": "Xiaomi",
+    "type": "Mobile",
+    "model": "Mi 11 Ultra",
+    "price": "999.50",
+    "description": "A high-spec Xiaomi phone with a versatile camera system and powerful hardware.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Mobile/5.jpg"
+  },
+  {
+    "brand": "Sony",
+    "type": "Mobile",
+    "model": "Xperia 1 III",
+    "price": "1199.00",
+    "description": "A Sony Xperia phone with a 4K display and pro-level camera features.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Mobile/6.jpg"
+  },
+  {
+    "brand": "LG",
+    "type": "Mobile",
+    "model": "G9 ThinQ",
+    "price": "749.00",
+    "description": "An LG smartphone with AI-enhanced features and a sleek design.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Mobile/7.jpg"
+  },
+  {
+    "brand": "Motorola",
+    "type": "Mobile",
+    "model": "Edge 20",
+    "price": "599.99",
+    "description": "A Motorola Edge phone with 5G capabilities and a high-refresh-rate display.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Mobile/8.jpg"
+  },
+  {
+    "brand": "Huawei",
+    "type": "Mobile",
+    "model": "P50 Pro",
+    "price": "1299.00",
+    "description": "A Huawei flagship phone with advanced camera technology and sleek aesthetics.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Mobile/9.jpg"
+  },
+  {
+    "brand": "Oppo",
+    "type": "Mobile",
+    "model": "Find X5 Pro",
+    "price": "899.50",
+    "description": "An Oppo Find X phone with innovative design and impressive camera features.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Mobile/10.jpg"
+  },
+  {
+    "brand": "Nokia",
+    "type": "Mobile",
+    "model": "8.4 5G",
+    "price": "549.00",
+    "description": "A Nokia smartphone with 5G connectivity and a focus on reliability.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Mobile/11.jpg"
+  },
+  {
+    "brand": "Realme",
+    "type": "Mobile",
+    "model": "GT Master Edition",
+    "price": "379.99",
+    "description": "A Realme phone designed in collaboration with a renowned designer, featuring a unique aesthetic.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Mobile/12.jpg"
+  }
+]

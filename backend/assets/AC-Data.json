@@ -1,0 +1,98 @@
+[
+  {
+    "brand": "LG",
+    "type": "AC",
+    "model": "CoolTech 5000",
+    "price": "799.99",
+    "description": "Powerful 15000 BTU window air conditioner with energy-saving features.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Ac/1.jpg"
+  },
+  {
+    "brand": "Daikin",
+    "type": "AC",
+    "model": "ClimateMaster Pro",
+    "price": "1299.00",
+    "description": "Advanced split-system AC with smart temperature control and quiet operation.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Ac/2.jpg"
+  },
+  {
+    "brand": "Carrier",
+    "type": "AC",
+    "model": "Arctic Breeze 300",
+    "price": "899.99",
+    "description": "Ductless mini-split AC with adjustable airflow and dehumidification.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Ac/3.jpg"
+  },
+  {
+    "brand": "Honeywell",
+    "type": "AC",
+    "model": "FrostFlow XL",
+    "price": "299.50",
+    "description": "Portable evaporative cooler with large water tank for efficient cooling in dry climates.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Ac/4.jpg"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "AC",
+    "model": "ChillGuard 800",
+    "price": "549.00",
+    "description": "Energy-efficient window-mounted air conditioner with remote control.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Ac/5.jpg"
+  },
+  {
+    "brand": "Nest",
+    "type": "AC",
+    "model": "EcoCool Smart+",
+    "price": "899.99",
+    "description": "Wi-Fi connected smart AC that adapts to your cooling preferences and schedule.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Ac/6.jpg"
+  },
+  {
+    "brand": "Mitsubishi",
+    "type": "AC",
+    "model": "SilentComfort 1200i",
+    "price": "1499.00",
+    "description": "Inverter technology AC with precise temperature control and energy efficiency.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Ac/7.jpg"
+  },
+  {
+    "brand": "Frigidaire",
+    "type": "AC",
+    "model": "EZCool Portable 400",
+    "price": "399.99",
+    "description": "Easy-to-move portable air conditioner with quick installation and cooling.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Ac/8.jpg"
+  },
+  {
+    "brand": "Lennox",
+    "type": "AC",
+    "model": "PureAir Ducted 6000",
+    "price": "2499.00",
+    "description": "Whole-house ducted AC system with advanced air purification technology.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Ac/9.jpg"
+  },
+  {
+    "brand": "Panasonic",
+    "type": "AC",
+    "model": "WallMaster Pro 1800",
+    "price": "749.00",
+    "description": "Wall-mounted AC with adjustable louvers and energy-saving features.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Ac/10.jpg"
+  },
+  {
+    "brand": "Haier",
+    "type": "AC",
+    "model": "CoolWave Split 220",
+    "price": "649.50",
+    "description": "High-performance split AC system with rapid cooling and remote control.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Ac/11.jpg"
+  },
+  {
+    "brand": "Trane",
+    "type": "AC",
+    "model": "ClimateCentral 5000",
+    "price": "2999.00",
+    "description": "Powerful central AC unit for large homes with zone-based temperature control.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Ac/12.jpg"
+  }
+]

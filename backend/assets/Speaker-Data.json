@@ -1,0 +1,98 @@
+[
+  {
+    "brand": "Bose",
+    "type": "Speaker",
+    "model": "SoundLink Revolve",
+    "price": "199.99",
+    "description": "A portable Bluetooth speaker with 360-degree sound and long battery life.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Speaker/1.jpg"
+  },
+  {
+    "brand": "Sonos",
+    "type": "Speaker",
+    "model": "One SL",
+    "price": "179.00",
+    "description": "A compact speaker with rich sound and the ability to pair with other Sonos speakers.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Speaker/2.jpg"
+  },
+  {
+    "brand": "JBL",
+    "type": "Speaker",
+    "model": "Flip 5",
+    "price": "119.99",
+    "description": "A waterproof portable speaker with powerful bass and vibrant colors.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Speaker/3.jpg"
+  },
+  {
+    "brand": "Sony",
+    "type": "Speaker",
+    "model": "SRS-XB43",
+    "price": "169.50",
+    "description": "A high-powered Bluetooth speaker with extra bass and built-in party lights.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Speaker/4.jpg"
+  },
+  {
+    "brand": "Ultimate Ears",
+    "type": "Speaker",
+    "model": "MEGABOOM 3",
+    "price": "199.00",
+    "description": "A rugged and waterproof speaker with 360-degree sound and customizable EQ.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Speaker/5.jpg"
+  },
+  {
+    "brand": "Harman Kardon",
+    "type": "Speaker",
+    "model": "Aura Studio 3",
+    "price": "249.99",
+    "description": "A visually striking speaker with ambient lighting and powerful audio quality.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Speaker/6.jpg"
+  },
+  {
+    "brand": "Anker",
+    "type": "Speaker",
+    "model": "Soundcore Flare",
+    "price": "69.99",
+    "description": "A portable speaker with 360-degree sound, customizable lighting, and IPX7 waterproof rating.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Speaker/7.jpg"
+  },
+  {
+    "brand": "Marshall",
+    "type": "Speaker",
+    "model": "Stanmore II",
+    "price": "349.00",
+    "description": "A vintage-styled speaker with classic rock aesthetics and powerful audio output.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Speaker/8.jpg"
+  },
+  {
+    "brand": "Bose",
+    "type": "Speaker",
+    "model": "Home Speaker 500",
+    "price": "299.00",
+    "description": "A smart speaker with voice control and spacious sound, suitable for home audio.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Speaker/9.jpg"
+  },
+  {
+    "brand": "Yamaha",
+    "type": "Speaker",
+    "model": "MusicCast 20",
+    "price": "199.50",
+    "description": "A wireless speaker with multi-room audio support and clear sound quality.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Speaker/10.jpg"
+  },
+  {
+    "brand": "Bang & Olufsen",
+    "type": "Speaker",
+    "model": "Beoplay A9",
+    "price": "2799.00",
+    "description": "A high-end wireless speaker with a distinctive design and exceptional sound.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Speaker/11.jpg"
+  },
+  {
+    "brand": "UE",
+    "type": "Speaker",
+    "model": "BOOM 2",
+    "price": "129.99",
+    "description": "A portable Bluetooth speaker with rugged design, 360-degree sound, and waterproofing.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/Speaker/12.jpg"
+  }
+]

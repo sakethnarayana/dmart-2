@@ -1,0 +1,98 @@
+[
+  {
+    "brand": "LG",
+    "type": "TV",
+    "model": "OLED CX Series",
+    "price": "1999.00",
+    "description": "A high-end OLED TV with stunning picture quality and smart features.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/TV/1.jpg"
+  },
+  {
+    "brand": "Sony",
+    "type": "TV",
+    "model": "Bravia X90J",
+    "price": "1499.00",
+    "description": "A 4K LED TV with advanced processing and immersive audio technology.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/TV/2.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "type": "TV",
+    "model": "QLED Q80A",
+    "price": "1799.99",
+    "description": "A QLED TV with vibrant colors and impressive upscaling capabilities.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/TV/3.jpg"
+  },
+  {
+    "brand": "TCL",
+    "type": "TV",
+    "model": "6-Series",
+    "price": "799.00",
+    "description": "An affordable 4K TV with Dolby Vision HDR and Roku smart platform.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/TV/4.jpg"
+  },
+  {
+    "brand": "Vizio",
+    "type": "TV",
+    "model": "P-Series Quantum",
+    "price": "1199.50",
+    "description": "A quantum dot 4K TV with high brightness and local dimming zones.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/TV/5.jpg"
+  },
+  {
+    "brand": "Hisense",
+    "type": "TV",
+    "model": "U8G Series",
+    "price": "999.00",
+    "description": "A ULED TV with impressive contrast and support for various HDR formats.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/TV/6.jpg"
+  },
+  {
+    "brand": "Panasonic",
+    "type": "TV",
+    "model": "HZ2000",
+    "price": "2499.99",
+    "description": "A flagship OLED TV with customized professional-grade picture quality.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/TV/7.jpg"
+  },
+  {
+    "brand": "Sharp",
+    "type": "TV",
+    "model": "Aquos R5G",
+    "price": "1499.00",
+    "description": "A 5G-compatible 4K TV with detailed images and advanced connectivity.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/TV/8.jpg"
+  },
+  {
+    "brand": "Philips",
+    "type": "TV",
+    "model": "Ambilight 4K",
+    "price": "999.99",
+    "description": "A 4K TV with Ambilight technology, creating an immersive viewing experience.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/TV/9.jpg"
+  },
+  {
+    "brand": "Sceptre",
+    "type": "TV",
+    "model": "X438BV-FSR",
+    "price": "299.50",
+    "description": "An affordable full HD TV with basic features for everyday entertainment.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/TV/10.jpg"
+  },
+  {
+    "brand": "Insignia",
+    "type": "TV",
+    "model": "Fire TV Edition",
+    "price": "349.00",
+    "description": "A budget-friendly 4K TV with built-in Fire TV and Alexa voice control.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/TV/11.jpg"
+  },
+  {
+    "brand": "Samsung",
+    "type": "TV",
+    "model": "The Frame",
+    "price": "1499.00",
+    "description": "A TV that doubles as a piece of art, seamlessly blending into your decor.",
+    "image": "https://imagesdinesh.s3.us-east-2.amazonaws.com/TV/12.jpg"
+  }
+]
